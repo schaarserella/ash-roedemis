@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>
+            Lesepult
+        </title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td><a target="_blank" href="https://www.bibleserver.com/">Bibel lesen</a></td>
+            </tr>
+            <tr>
+                <td><a target="_blank" href="https://www.losungen.de/die-losungen/">Losungen</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
